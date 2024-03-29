@@ -13,7 +13,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Challenge Mail Service é um serviço de envio de e-mails que possui a abstração entre dois provedores de serviços de e-mail diferentes. Se um dos serviços falhar, seu serviço poderá falhar rapidamente para um provedor diferente sem afetar seus clientes. Desenvolvido utilizando clean architecture. Desafio proposto pela [**Uber**](https://github.com/uber), foi utilizado as tecnologias como [**Spring**](https://spring.io/) e [**Lombok**](https://projectlombok.org/).
+Challenge Mail Service é um serviço de envio de e-mails que possui a abstração entre dois provedores de serviços de e-mail diferentes. Se um dos serviços falhar, seu serviço poderá falhar rapidamente para um provedor diferente sem afetar seus clientes. Desenvolvido utilizando clean architecture. Desafio proposto pela [**Uber**](https://github.com/uber), foi utilizado as tecnologias como [**Spring**](https://spring.io/) e [**Lombok**](https://projectlombok.org/) e novas features do Java 17 como records.
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Envios de e-mail por provedores diferentes<br>
