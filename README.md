@@ -32,7 +32,7 @@ Challenge Mail Service é um serviço de envio de e-mails que possui a abstraç�
 # 📍 <span id="endpoints">Endpoints</span>
 | Endpoint               | Resumo                                          
 |----------------------|-----------------------------------------------------
-| <kbd>POST /api/email </kbd>     | Responsável pelo envio do e-mail
+| <kbd>POST /api/email </kbd> | Responsável pelo envio do e-mail
 
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
