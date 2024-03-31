@@ -11,7 +11,7 @@
 	<groupId>br.com.cleilsonandrade</groupId>
 	<artifactId>challenge-mail-service</artifactId>
 	<version>1.0.0</version>
-	<name>challenge-mail-service</name>
+	<name>Challenge Mail Service</name>
 	<description>Uber Code Challenge</description>
 	<properties>
 		<java.version>17</java.version>
