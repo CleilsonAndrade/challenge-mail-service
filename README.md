@@ -41,7 +41,7 @@ Challenge Mail Service é um serviço de envio de e-mails que possui a abstraç�
   $ cd ./challenge-mail-service
 
   # Instalar as dependências:
-  $ mvn clean instal
+  $ mvn clean install
 
   # Executar:
   $ mvn spring-boot:run
